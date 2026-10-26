@@ -119,6 +119,7 @@ h1, h2 { font-family: var(--chu-viet); font-weight: 700; margin: 0; }
 }
 .la-thu h2 { font-size: 40px; color: var(--hong-dam); margin-bottom: 12px; }
 .ky-ten { font: 700 28px var(--chu-viet); color: var(--hong-dam-hon); }
+.xe-sac { display: block; width: 100%; max-width: 360px; margin: 8px auto 0; font-family: "Quicksand", sans-serif; }
 footer { text-align: center; padding: 24px 16px 40px; font-size: 14px; opacity: .7; }
 
 /* ---------- Nút nhạc ---------- */
